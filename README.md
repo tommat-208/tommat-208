@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![alt text](https://i.pinimg.com/736x/47/92/39/47923978460c45c766031a42772bd64e.jpg)
-
 **tommat-208/tommat-208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
